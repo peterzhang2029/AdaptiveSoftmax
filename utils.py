@@ -1,11 +1,6 @@
-import urllib
-import shutil
-import zipfile
 import os
-import pickle
 from collections import Counter
 import numpy as np
-import codecs
 
 
 def build_dict(train_file_path):
